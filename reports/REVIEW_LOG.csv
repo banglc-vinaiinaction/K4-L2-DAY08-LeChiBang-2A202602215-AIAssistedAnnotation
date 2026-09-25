@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0326.jpg,xe rất xa làn ngược bên trái,edited,AI chỉ khoanh đèn — kéo rộng box ôm thân xe theo GUIDELINE_LABEL.md
+1,frame_0227.jpg,vệt sáng đèn trên mặt đường bên trái,deleted,Không phải xe nên xóa khung
+1,frame_0369.jpg,xe nhỏ làn ngược giữa ảnh,added,AI bỏ sót xe đi ngược chiều — thấy rõ đèn và đường viền thân xe
